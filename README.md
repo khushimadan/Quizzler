@@ -1,7 +1,16 @@
-# Quizzler
+# quizzler
 
-Quizzler is a Quiz App for Android created using Flutter. It contains a set of True and False questions and also keeps a track of user's score.
+A new Flutter project.
 
-https://github.com/khushimadan/Quizzler/assets/63074598/f48ae27b-605f-415c-9d32-adb080ac02d9
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
